@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 title: Tempilo
 message: >-
-  If you use this software, please cite it as below.
+  If you use this software, please cite it using the
+  metadata from this file.
 type: software
 authors:
   - given-names: GivenName
@@ -17,4 +18,3 @@ url: 'https://pypi.org/project/pyUTSAlgorithms/'
 license: MIT
 version: 0.1.0
 date-released: '2024-04-04'
-
