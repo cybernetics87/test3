@@ -1,0 +1,21 @@
+{
+  "title": "Test3-title",
+  "version": "0.1.0",
+  "description": "This is a longer description",
+  "creators": [
+    {
+      "name": "Family, Name",
+      "orcid": "https://orcid.org/0000-0000-0000-0000"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "communities": [
+    {
+      "identifier": "EPFL - École Polytechnique Fédérale de Lausanne"
+    }
+  ],
+  "language": "eng",
+  "keywords": ["Python", "reproducible research", "version control"]
+}
