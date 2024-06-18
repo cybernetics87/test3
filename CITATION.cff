@@ -7,8 +7,30 @@ authors:
 - family-names: "Lisa"
   given-names: "Mona"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "test3"
+title: test3
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-06-18
 url: "https://github.com/cybernetics87/test3"
+
+cff-version: 1.2.0
+title: Test
+abstract: "Test test test"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - given-names: Name
+    family-names: Family
+    email: name.family@gmail.com
+    affiliation: EPFL
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+repository-code: 'https://github.com/cybernetics87/test3'
+url: 'https://github.com/cybernetics87/test3'
+identifiers:
+  - type: doi
+    value: 0000-0000-0000-0000
+    description: Zenodo archive
+license: MIT
+version: 0.1.0
+date-released: '2024-06-18'
+
