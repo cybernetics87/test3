@@ -15,7 +15,6 @@ identifiers:
   - type: doi
     value: 0000-0000-0000-0000
     description: Zenodo archive
-license: MIT
 version: 0.1.0
 date-released: '2024-06-18'
 
