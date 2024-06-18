@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 title: Tempilo
+abstract: Test file to do tests.
 message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
+  If you use this software, please cite it as below.
 type: software
 authors:
   - given-names: GivenName
