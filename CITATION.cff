@@ -12,7 +12,6 @@ authors:
 identifiers:
   - type: doi
     value: XXX
-    description: Zenodo archive
 repository-code: 'https://github.com/test/test'
 url: 'https://pypi.org/project/pyUTSAlgorithms/'
 license: MIT
