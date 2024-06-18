@@ -1,20 +1,37 @@
 cff-version: 1.2.0
-title: Test
-abstract: "Test test test"
-message: "If you use this software, please cite it as below."
-type: software
-authors:
-  - given-names: Name
-    family-names: Family
-    email: name.family@gmail.com
-    affiliation: EPFL
-    orcid: 'https://orcid.org/0000-0000-0000-0000'
-repository-code: 'https://github.com/cybernetics87/test3'
-url: 'https://github.com/cybernetics87/test3'
-identifiers:
-  - type: doi
-    value: 0000-0000-0000-0000
-    description: Zenodo archive
-version: 0.1.0
-date-released: '2024-06-18'
+message: |
+  Please cite this software using these metadata. "*" indicates co-equal authorship.
 
+title: "QGreenland"
+doi: "10.5281/zenodo.4533271"
+abstract: "This software generates the QGreenland data package for QGIS."
+contact:
+  - name: "The QGreenland Team"
+    email: "qgreenland.info@gmail.com"
+  - name: "The QGreenland community" 
+    website: "https://github.com/nsidc/qgreenland/discussions"
+type: "software"
+license: ["MIT"]
+keywords:
+  - "GIS"
+  - "QGIS"
+  - "Python"
+  - "education"
+  - "Greenland"
+
+url: "https://github.com/nsidc/qgreenland"
+repository-code: "https://github.com/nsidc/qgreenland"
+
+version: "3.0.0"
+date-released: "2023-08-24"
+
+authors:
+- family-names: "*Fisher"
+  given-names: "Matt"
+  orcid: "https://orcid.org/0000-0003-3260-5445"
+
+references:
+- type: "grant"
+  intitution:
+    name: "National Science Foundation"
+  number: "1928393"
