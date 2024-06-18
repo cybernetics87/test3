@@ -1,37 +1,25 @@
 cff-version: 1.2.0
-message: |
-  Please cite this software using these metadata. "*" indicates co-equal authorship.
-
-title: "QGreenland"
-doi: "10.5281/zenodo.4533271"
-abstract: "This software generates the QGreenland data package for QGIS."
-contact:
-  - name: "The QGreenland Team"
-    email: "qgreenland.info@gmail.com"
-  - name: "The QGreenland community" 
-    website: "https://github.com/nsidc/qgreenland/discussions"
-type: "software"
-license: ["MIT"]
-keywords:
-  - "GIS"
-  - "QGIS"
-  - "Python"
-  - "education"
-  - "Greenland"
-
-url: "https://github.com/nsidc/qgreenland"
-repository-code: "https://github.com/nsidc/qgreenland"
-
-version: "3.0.0"
-date-released: "2023-08-24"
-
+title: pyUTSAlgorithms
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-- family-names: "*Fisher"
-  given-names: "Matt"
-  orcid: "https://orcid.org/0000-0003-3260-5445"
-
-references:
-- type: "grant"
-  intitution:
-    name: "National Science Foundation"
-  number: "1928393"
+  - given-names: Mário
+    family-names: Antunes
+    email: mario.antunes@ua.pt
+    affiliation: Universidade de Aveiro
+    orcid: 'https://orcid.org/0000-0002-6504-9441'
+  - given-names: Yifei
+    email: yifeliu@cs.stonybrook.edu
+    family-names: Liu
+    affiliation: Stony Brook University
+    orcid: 'https://orcid.org/0000-0002-1918-5119'
+identifiers:
+  - type: doi
+    value: XXX
+repository-code: 'https://github.com/mariolpantunes/pyUTSAlgorithms'
+url: 'https://pypi.org/project/pyUTSAlgorithms/'
+license: MIT
+version: 0.1.3
+date-released: '2024-04-04'
