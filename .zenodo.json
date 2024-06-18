@@ -1,21 +1,39 @@
 {
-  "title": "Test3-title",
-  "version": "0.1.0",
-  "description": "This is a longer description",
-  "creators": [
+  "title": "test 3",
+  "description": "<p>fds fsfsd</p>",
+  "maintainers": [
     {
-      "name": "Family, Name",
-      "orcid": "https://orcid.org/0000-0000-0000-0000"
+      "name": "Name, Nam2",
+      "orcid": "0000-0002-1228-0201"
     }
   ],
-  "upload_type": "software",
-  "access_right": "open",
-  "license": "MIT",
-  "communities": [
+  "keywords": [
+    "workflow",
+    "nipype",
+    "dipy",
+    "nilearn",
+    "tractography",
+    "fmri",
+    "dmri",
+    "gaussian-graphical-models",
+    "ensemble-sampling",
+    "ensemble-learning",
+    "networks",
+    "graph-analysis",
+    "connectomics",
+    "brain-connectivity",
+    "structural-connectomes",
+    "gridsearch",
+    "functional-connectomes",
+    "networkx"
+  ],
+  "related_identifiers": [
     {
-      "identifier": "EPFL - École Polytechnique Fédérale de Lausanne"
+      "identifier": "no",
+      "relation": "documents",
+      "scheme": "url"
     }
   ],
-  "language": "eng",
-  "keywords": ["Python", "reproducible research", "version control"]
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "upload_type": "software"
 }
